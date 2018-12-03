@@ -1,0 +1,14 @@
+server:
+  port: 8190
+spring:
+  application:
+    name: Test-User-Server-One
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8177/eureka/,http://127.0.0.1:8176/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include:  '*'

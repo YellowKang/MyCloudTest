@@ -1,0 +1,15 @@
+server:
+  port: 8176
+spring:
+  application:
+    name: Eureka-Register-colony1
+#  security:
+#    user:
+#      name: bigkang
+#      password: 123
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:8177/eureka/
