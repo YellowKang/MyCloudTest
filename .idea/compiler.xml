@@ -7,23 +7,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="test-amqp-rabbitmq" />
+        <module name="test-boot-data-redis" />
+        <module name="test-boot-email" />
+        <module name="test-cloud-config-client" />
         <module name="test-cloud-eureka-feign" />
         <module name="test-cloud-eureka-hystrix-dashboard" />
         <module name="test-cloud-eureka-register" />
         <module name="test-cloud-eureka-register-colony1" />
         <module name="test-cloud-eureka-server-one" />
         <module name="test-cloud-eureka-server-two" />
+        <module name="test-cloud-server-config" />
+        <module name="test-cloud-stream-starter-rabbitmq" />
         <module name="test-cloud-zuul" />
         <module name="test-hystrix-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="test-amqp-rabbitmq" target="1.8" />
+      <module name="test-boot-data-redis" target="1.8" />
+      <module name="test-boot-email" target="1.8" />
+      <module name="test-cloud-config-client" target="1.8" />
       <module name="test-cloud-eureka-feign" target="1.8" />
       <module name="test-cloud-eureka-hystrix-dashboard" target="1.8" />
       <module name="test-cloud-eureka-register" target="1.8" />
       <module name="test-cloud-eureka-register-colony1" target="1.8" />
       <module name="test-cloud-eureka-server-one" target="1.8" />
       <module name="test-cloud-eureka-server-two" target="1.8" />
+      <module name="test-cloud-server-config" target="1.8" />
+      <module name="test-cloud-stream-starter-rabbitmq" target="1.8" />
       <module name="test-cloud-zuul" target="1.8" />
       <module name="test-hystrix-demo" target="1.8" />
     </bytecodeTargetLevel>

@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+#    读取我们配置中心的git仓库的地址，用下面的myconfig-two.yml这个文件
+      uri: http://localhost
+      name: myconfig
+      profile: two
+      label: master

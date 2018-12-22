@@ -18,6 +18,12 @@
         <option value="$PROJECT_DIR$/test-cloud-eureka-hystrix-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/test-hystrix-demo/pom.xml" />
         <option value="$PROJECT_DIR$/test-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/test-cloud-server-config/pom.xml" />
+        <option value="$PROJECT_DIR$/test-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/test-amqp-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/test-cloud-stream-starter-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/test-boot-data-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/test-boot-email/pom.xml" />
       </list>
     </option>
   </component>

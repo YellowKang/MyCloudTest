@@ -3,8 +3,7 @@ server:
 spring:
   application:
     name: Eureka-Register
-  profiles:
-    active: dev
+
 #  security:
 #    user:
 #      name: bigkang-

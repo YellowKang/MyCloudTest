@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/test-amqp-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-boot-data-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-boot-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-cloud-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-register" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-register-colony1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-server-one" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-eureka-server-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-cloud-server-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-cloud-stream-starter-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-cloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-hystrix-demo" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

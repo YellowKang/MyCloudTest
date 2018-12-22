@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-amqp-rabbitmq/test-amqp-rabbitmq.iml" filepath="$PROJECT_DIR$/test-amqp-rabbitmq/test-amqp-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-boot-data-redis/test-boot-data-redis.iml" filepath="$PROJECT_DIR$/test-boot-data-redis/test-boot-data-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-boot-email/test-boot-email.iml" filepath="$PROJECT_DIR$/test-boot-email/test-boot-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-config-client/test-cloud-config-client.iml" filepath="$PROJECT_DIR$/test-cloud-config-client/test-cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-feign/test-cloud-eureka-feign.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-feign/test-cloud-eureka-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-hystrix-dashboard/test-cloud-eureka-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-hystrix-dashboard/test-cloud-eureka-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-register/test-cloud-eureka-register.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-register/test-cloud-eureka-register.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-register-colony1/test-cloud-eureka-register-colony1.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-register-colony1/test-cloud-eureka-register-colony1.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-server-one/test-cloud-eureka-server-one.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-server-one/test-cloud-eureka-server-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-server-two/test-cloud-eureka-server-two.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-server-two/test-cloud-eureka-server-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-server-config/test-cloud-server-config.iml" filepath="$PROJECT_DIR$/test-cloud-server-config/test-cloud-server-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-stream-starter-rabbitmq/test-cloud-stream-starter-rabbitmq.iml" filepath="$PROJECT_DIR$/test-cloud-stream-starter-rabbitmq/test-cloud-stream-starter-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-zuul/test-cloud-zuul.iml" filepath="$PROJECT_DIR$/test-cloud-zuul/test-cloud-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-hystrix-demo/test-hystrix-demo.iml" filepath="$PROJECT_DIR$/test-hystrix-demo/test-hystrix-demo.iml" />
     </modules>

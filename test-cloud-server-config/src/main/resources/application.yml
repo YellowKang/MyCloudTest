@@ -1,0 +1,18 @@
+server:
+#  \u672C\u5730\u7AEF\u53E3\u53F7
+  port: 80
+spring:
+  cloud:
+    config:
+      server:
+        git:
+#        git\u7684\u8FDC\u7A0B\u4ED3\u5E93\u5730\u5740
+          uri: https://gitee.com/YellowKang/MyCloudConfigCenter
+#          \u662F\u5426\u7ED5\u8FC7ssl\u8FDE\u63A5
+          skip-ssl-validation: true
+#      \u54EA\u4E00\u4E2A\u5206\u652F
+      label: master
+
+#  spring\u670D\u52A1\u540D
+  application:
+    name: MyconfigAs
